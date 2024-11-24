@@ -2,6 +2,10 @@
 
 Un sistema de gestión de notas compras desarrollado en Laravel que incluye CRUD, autenticación, y estilos con Bootstrap.
 
+#Video Explicativo
+
+https://github.com/user-attachments/assets/7af1d9c1-077e-4960-aacb-0689bd73eaca
+
 ## Requisitos Previos
 
 Antes de comenzar, asegúrate de tener instalados los siguientes componentes:
